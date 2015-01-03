@@ -1,0 +1,1 @@
+/home/vagrant/Sites/blog/app/views/posts/show.blade.php
